@@ -13,8 +13,7 @@
 
 ## 🚀 About Me
 
-I work on improving the reliability of complex systems using formal specification and verification.  
-My research focuses on formal methods, quantum software engineering, quantum machine learning, and safety-critical system design.
+I work on improving the reliability of complex systems using formal specification and verification. My research focuses on formal methods, quantum software engineering, quantum machine learning, and safety-critical system design.
 
 ---
 
